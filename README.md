@@ -8,11 +8,11 @@ Requirements
 
 The web application must use Vite to create the web application structure
 
-The web application must use the provided notification data
+The web application must use the provided notification data: /src/notifications.js
 
 The children prop should be used to create the web application.
 
-The web application must display all notifications, and all notification data, when the page loads.
+The web application must display all notifications, and all Notification Data, when the page loads.
 
 The number of notifications should be displayed on the page. 
 
